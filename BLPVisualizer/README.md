@@ -5,8 +5,7 @@ A command-line simulator for the Bell-LaPadula (BLP) confidentiality model, prep
 ## Files
 
 - `Cases.py` defines and runs all 18 assignment scenarios.
-- `BLP.py` implements subjects, objects, security levels, read/write checks, and state display.
-- `Lab05-walkthrough.md` explains each case and provides written-answer drafts.
+- `BLP.py` implements the subjects, objects, security levels, read/write checks, and state display.
 
 ## Run
 
